@@ -1,7 +1,12 @@
 # Application Name
 
 {Brief description of application}, {Date of current version}
-By {List of contributors}
+By Zoe Sullivan <zoetsullivan@gmail.com>
+
+Co-authored-by: Brit Wallace <britwallace888@gmail.com>
+Co-authored-by: Julien Leonardo <julien.m.leonardo@gmail.com>
+Co-authored-by: Branden Clauson <clauson.branden@gmail.com>
+
 
 ## Description
 
@@ -16,7 +21,7 @@ REPO URL <https://github.com/zydridas/flashcards.git>
 * git add **.**
 * git commit -m "add initial files to repo"
 * git log (confirms commit and message)
-* git remote add NICKNAME https://github.com/zydridas/flashcards.git
+* git remote add NICKNAME <https://github.com/zydridas/flashcards.git>
 * git remote -v (confirms code was pushed to correct repo)
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}
