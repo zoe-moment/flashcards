@@ -1,0 +1,25 @@
+#js-showing {
+  display: none;
+}
+
+#fun-showing {
+  display: none;
+}
+
+.intro {
+  margin: 10px auto 10px auto;
+  max-width: 90%;
+  background-color: aquamarine;
+}
+
+.container {
+  border:solid 2px #0088cc;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
