@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $(".clickable").click(function() {
+  $(".clickable-js").click(function() {
     $("#js-showing").toggle();
     $("#js-hidden").toggle();
   });
