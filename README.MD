@@ -6,6 +6,8 @@ Flashcards to practice Java Script, October 31st 2021
 
 By Zoe Sullivan <zoetsullivan@gmail.com>
 
+Co-authored-by: David Johnson <Djohnso08@gmail.com>
+
 Co-authored-by: Brit Wallace <britwallace888@gmail.com>
 
 Co-authored-by: Julien Leonardo <julien.m.leonardo@gmail.com>
@@ -21,6 +23,8 @@ Brit Wallace <https://github.com/BritWallace>
 Julien Leonardo <https://github.com/julienleonardo>
 
 Branden Clauson <https://github.com/bclauson>
+
+David Johnson <https://github.com/davidjohnso>
 
 ## Description
 
